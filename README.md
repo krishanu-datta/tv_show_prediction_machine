@@ -1,1 +1,1 @@
-# tv-show-prediction-machine
+# TV Show Prediction Machine
